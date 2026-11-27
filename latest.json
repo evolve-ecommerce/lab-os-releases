@@ -1,6 +1,6 @@
 {
- "version": "1.2.0",
- "date": "2026-11-26",
- "title": "Your agent now does every install step it can, and every ad of a brand's own accounts counts.",
+ "version": "1.2.1",
+ "date": "2026-11-27",
+ "title": "The install now passes on a ClickUp space made from the Lab OS ClickUp template.",
  "source": "evolve-ecommerce/lab-os"
 }
