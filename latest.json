@@ -1,6 +1,6 @@
 {
- "version": "1.2.1",
- "date": "2026-11-27",
- "title": "The install now passes on a ClickUp space made from the Lab OS ClickUp template.",
+ "version": "1.3.0",
+ "date": "2026-11-28",
+ "title": "Ad Data is a new page: one board of your ads, grouped by label, where a person confirms or raises a label and ClickUp moves at once.",
  "source": "evolve-ecommerce/lab-os"
 }
